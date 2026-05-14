@@ -5,4 +5,4 @@
 <img width="1912" height="1120" alt="Image" src="https://github.com/user-attachments/assets/4ef29d8e-e955-4489-8d43-f20330199dca" />
 
 ## 1. EC2 Public IP
-3.34.40.202
+<img width="1894" height="1120" alt="Image" src="https://github.com/user-attachments/assets/f302ef0d-58be-4c63-933e-f596462f5447" />
